@@ -1,7 +1,7 @@
 public class HelloWorld {
 	
-    private static String version = "3.2.0";
-    private static String featureList = "feature list\npoint releases";
+    private static String version = "3.2.1";
+    private static String featureList = "* point releases";
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
