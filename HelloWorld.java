@@ -5,7 +5,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World. This is version:"+version+"\n Now With Features:\n"+featureList);
+        System.out.println("Hello, World.\n This is version:"+version+"\nNow With Features:\n"+featureList);
     }
 
 }
