@@ -1,6 +1,6 @@
 public class HelloWorld {
 	
-    private static String version = "3.2.2";
+    private static String version = "3.3";
     private static String featureList = "* point releases\n* master version";
 
     public static void main(String[] args) {
