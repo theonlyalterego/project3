@@ -1,6 +1,6 @@
 public class HelloWorld {
 	
-    private static String version = "3";
+    private static String version = "3.1.0";
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
